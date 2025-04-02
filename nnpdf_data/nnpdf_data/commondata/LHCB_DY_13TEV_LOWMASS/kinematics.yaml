@@ -1,0 +1,42 @@
+mid: 16
+    max: null
+  sqrts:
+    min: null
+    mid: 13600.0
+    max: null
+- y:
+    min: 3.875
+    mid: 3.9375
+    max: 4.0
+  m_Z2:
+    min: null
+    mid: 16
+    max: null
+  sqrts:
+    min: null
+    mid: 13600.0
+    max: null
+- y:
+    min: 4.0
+    mid: 4.125
+    max: 4.25
+  m_Z2:
+    min: null
+    mid: 16
+    max: null
+  sqrts:
+    min: null
+    mid: 13600.0
+    max: null
+- y:
+    min: 4.25
+    mid: 4.375
+    max: 4.5
+  m_Z2:
+    min: null
+    mid: 16
+    max: null
+  sqrts:
+    min: null
+    mid: 13600.0
+    max: null
